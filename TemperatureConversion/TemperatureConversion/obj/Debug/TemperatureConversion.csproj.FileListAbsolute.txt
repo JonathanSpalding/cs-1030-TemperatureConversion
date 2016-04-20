@@ -1,0 +1,6 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\TemperatureConversion2.0\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\TemperatureConversion2.0\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\TemperatureConversion2.0\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\TemperatureConversion2.0\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\TemperatureConversion2.0\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\TemperatureConversion2.0\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.pdb
